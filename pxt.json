@@ -1,5 +1,6 @@
 {
     "name": "Galga V1.4",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
